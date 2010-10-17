@@ -1,0 +1,4 @@
+--- 
+:port: 9000
+:baud: 115200
+:window_size: 5
